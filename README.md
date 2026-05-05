@@ -1,6 +1,9 @@
 # Lab 5 - Starter
 Name: Aila Jahromi 
 
+[Link to expose](https://ailapj.github.io/Lab5_Starter/expose.html)  
+[Link to explore](https://ailapj.github.io/Lab5_Starter/explore.html)    
+
 # Check your understanding 
 1) Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
 - I probably would implmenet some units tests to check the individual parts of the functions, such as ensuring the writing of the function is captured, the delivery, the scope, and etc. but units tests will not be enough to test the entire system as unit tests do not capture how these individual components interact with each other
